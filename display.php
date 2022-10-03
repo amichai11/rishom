@@ -10,6 +10,7 @@
     <body>
 
         <h1> עמוד גבאים </h1>
+        <hr>
 
     </body>
 </html>
@@ -21,8 +22,8 @@
 
     if (isset($first_name, $last_name))
     {
-        echo "ברוך הבא ".$first_name." ".$last_name."<br/>";
-        echo "מה תרצה לעשות? <br/>";
+        echo "ברוך הבא ".$first_name." ".$last_name."<br>";
+        echo "מה תרצה לעשות? <br>";
     }
         
 
