@@ -21,7 +21,7 @@
 
     $our_parasha = "bereshit"; //TODO: make array with all of the prashot  and make logic
 
-    $host = "localhost";
+    $host = "204.48.28.110";
     $user = "test1";
     $pass = "test1";
     $dbname = "rishom";
