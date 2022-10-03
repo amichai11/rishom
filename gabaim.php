@@ -11,7 +11,7 @@
 
         <div class="container mt-3">
         <h2>כנסית גבאים</h2>
-        <form action="./gabaim.php" method="post">
+        <form action="./display.php" method="post">
             <div class="mb-3 mt-3">
             <label for="email">שם פרטי:</label>
             <input type="text" class="form-control" id="first_name" placeholder="שם פרטי" name="first_name">
